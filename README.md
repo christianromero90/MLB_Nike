@@ -2,6 +2,13 @@
 
 This is a project from the course ***Text Analytics and Natural Language Processing*** which is a part of **Hult's MSc. in Business Analytics program in Boston**.
 
+This repository consists of 4 documents:
+
+- Script used for cleaning of data in R-studio
+- Script used for analysis of data in R-studio
+- Zip folder containing relevant CSV files with tweet data
+- PPT presentation
+
 The project covers these **NLP fundamentals** but is not limited to them:
 
 - Load and subset data
